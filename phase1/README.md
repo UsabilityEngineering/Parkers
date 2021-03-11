@@ -107,9 +107,10 @@ According to the results from the survey and task analysis, the participants spe
 
 **Personas**
 
-
+![student](https://user-images.githubusercontent.com/70178880/110865939-424e1800-8279-11eb-996e-bb98ec11e06b.jpg)
 
 *   **Tommy** - male, 22-23 years old, smartphone user,  student looking to regularly park efficiently and safely in order to be on time for class
+![depositphotos_8803246-stock-photo-asian-college-student](https://user-images.githubusercontent.com/70178880/110865885-2b0f2a80-8279-11eb-8903-fd68c55411da.jpg)
 
 *    **Susie** - female, 24 year old, long distance commuter, student looking to regularly park efficiently and safely and is very patient when it comes to parking.
 
