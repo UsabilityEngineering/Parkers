@@ -4,9 +4,9 @@ Finding a parking spot is always a struggle when one is in a hurry to get to cla
 
 ## Team Members
 
-* **Jesus Alvarado** - Summary of contributions
-* **Marko Ramos** - Summary of contributions
-* **Michael Spears** - Summary of contributions
+* **Jesus Alvarado** - Introduction/Executive Summary/Personas
+* **Marko Ramos** - Methods/Findings/ Conclusion/ Caveats/ Personas
+* **Michael Spears** - Findings/ Scenarios/ Supplimentary Materials
 
 # User-Centered Design Artifacts
 
