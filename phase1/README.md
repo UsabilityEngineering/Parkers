@@ -1,40 +1,7 @@
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 1.641 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Thu Mar 11 2021 14:37:07 GMT-0800 (PST)
-* Source doc: Parkers, Phase 1: Requirements Gathering
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 2.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-# 
+ 
 **Parkers, Phase 1: Requirements Gathering**
 
-**Introduction **
+**Introduction**
 
 
 
@@ -124,7 +91,7 @@ We created an** online survey** where the voluntary students gave their feedback
 **Conclusions**
 
 
-	According to the results from the survey and task analysis, the participants spend too much time searching for a free parking spot which results from 10-30 minutes. Limitations brought upon by Covid-19 and Chico State restrictions have forced us to collect data from a small sample size of students. Our personas and scenarios may not best reflect the large majority of students. For this reason, we conclude that more research has to be done in order to collect information from the larger population of CSU students. Going back, we need to collect more data like: whether or not a student is a parking pass holder, student’s declared major, how far a student commutes, students who park in the other 66% of parking lots available. Because 100% of our survey participants have smartphones, we’d like to improve the problem of CSU parking by offering a mobile application. Going back to collect more detailed information will improve our approach in order to develop and meet the requirements for our key personas and scenarios.
+According to the results from the survey and task analysis, the participants spend too much time searching for a free parking spot which results from 10-30 minutes. Limitations brought upon by Covid-19 and Chico State restrictions have forced us to collect data from a small sample size of students. Our personas and scenarios may not best reflect the large majority of students. For this reason, we conclude that more research has to be done in order to collect information from the larger population of CSU students. Going back, we need to collect more data like: whether or not a student is a parking pass holder, student’s declared major, how far a student commutes, students who park in the other 66% of parking lots available. Because 100% of our survey participants have smartphones, we’d like to improve the problem of CSU parking by offering a mobile application. Going back to collect more detailed information will improve our approach in order to develop and meet the requirements for our key personas and scenarios.
 
 
 ## 
@@ -149,7 +116,7 @@ We created an** online survey** where the voluntary students gave their feedback
 ![alt_text](images/image1.png "image_tooltip")
 
 
-    **Tommy - **male, 22-23 years old, smartphone user,  student looking to regularly park efficiently and safely in order to be on time for class
+  **Tommy** - **male, 22-23 years old, smartphone user,  student looking to regularly park efficiently and safely in order to be on time for class
 
 *   
 
@@ -159,7 +126,7 @@ We created an** online survey** where the voluntary students gave their feedback
 ![alt_text](images/image2.png "image_tooltip")
 
 
-    **Susie - **Female, 24 year old, long distance commuter, student looking to regularly park efficiently and safely and is very patient when it comes to parking.
+  **Susie** - female, 24 year old, long distance commuter, student looking to regularly park efficiently and safely and is very patient when it comes to parking.
 
 
 **Scenarios**
@@ -174,27 +141,3 @@ We created an** online survey** where the voluntary students gave their feedback
 
 *   Online Survey ([link](https://docs.google.com/forms/d/1P0dJLZed2vPHwAqNjujo-Jh7jZMSqEsc8xkm2_5A0VM/prefill))
 *   Task analysis with consent form([link](https://docs.google.com/document/d/1yiP0CcfsByH6GbNYqNtrj-aVMFUumyWnIfnpJcZXZ9c/edit?usp=sharing))
-# Team Name, Phase 1: Requirements Gathering
-
-## Methods
-
-
-
-## Findings
-
-
-
-## Conclusions
-
-
-
-## Caveats
-
-
-
-## Supplementary Materials
-
-[See dedicated page for Personas and Scenarios created from Phase 1 findings](../personas-scenarios.md)
-
-
-Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a survey, protocol for an interview or contextual inquiry, etc) as PDF documents.
