@@ -1,6 +1,6 @@
-# Replace this with the Project Name
+# Parking Locater (Parkers)
 
-Replace this text with a brief introduction to the problem space.
+Finding a parking spot is always a struggle when one is in a hurry to get to class. An app that shows a live feed will reduce the time spent finding a parking spot and make parking more efficient for students. 
 
 ## Team Members
 
