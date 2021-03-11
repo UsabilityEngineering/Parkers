@@ -106,6 +106,7 @@ According to the results from the survey and task analysis, the participants spe
     *   The students who did take the survey, all have similar majors. This results in their classes being the same so not all parking spaces are being used. 
 *   Our purpose is to track the students activity not the parking lot activity
 
+##
 **Personas**
 
 ![male](https://user-images.githubusercontent.com/70178880/110866145-8b9e6780-8279-11eb-9f38-1600c2a6c71c.jpg)
@@ -117,7 +118,7 @@ According to the results from the survey and task analysis, the participants spe
 
 *    **Susie** - female, 24 year old, long distance commuter, student looking to regularly park efficiently and safely and is very patient when it comes to parking.
 
-
+##
 **Scenarios**
 
 
