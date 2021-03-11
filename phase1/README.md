@@ -53,7 +53,7 @@ We created an **online survey** where the voluntary students gave their feedback
     - 35.5% at 9:00 AM
     - 23.5% at 10:00 AM
     - 29.4% at 11:00 AM
-    ![github results](https://user-images.githubusercontent.com/70178880/110865697-db306380-8278-11eb-978b-4f1c7b77a975.JPG)
+    - ![github results](https://user-images.githubusercontent.com/70178880/110865697-db306380-8278-11eb-978b-4f1c7b77a975.JPG)
 - 80% leave at 5:00 PM
 - 100% have of participants have a smartphone
     - 76.5% iphone
