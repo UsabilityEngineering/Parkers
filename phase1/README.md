@@ -58,7 +58,7 @@ We created a **Task Analysis** form in order to ride along, monitor and track ef
 
 We created an **Online Survey** where the voluntary students gave their feedback on their process of finding a parking spot. It entails the location, time, and additional comments where the students offer their opinion on the current CSU parking, along with suggestions on any changes. 
 
-
+![github results](https://user-images.githubusercontent.com/70178880/110865697-db306380-8278-11eb-978b-4f1c7b77a975.JPG)
 
 *   Young and male
     *   82.3% 23 or younger
@@ -109,17 +109,9 @@ According to the results from the survey and task analysis, the participants spe
 
 
 
-*   
+*   **Tommy** - male, 22-23 years old, smartphone user,  student looking to regularly park efficiently and safely in order to be on time for class
 
-
-
-   **Tommy** - **male, 22-23 years old, smartphone user,  student looking to regularly park efficiently and safely in order to be on time for class
-
-*   
-
-
-
-   **Susie** - female, 24 year old, long distance commuter, student looking to regularly park efficiently and safely and is very patient when it comes to parking.
+*    **Susie** - female, 24 year old, long distance commuter, student looking to regularly park efficiently and safely and is very patient when it comes to parking.
 
 
 **Scenarios**
