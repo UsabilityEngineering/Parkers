@@ -86,6 +86,7 @@ We created an **Online Survey** where the voluntary students gave their feedback
     *   29% use 3rd & Orange Lot C
     *   23% use 1st & Orange Lot B
     *   Others lots used to a lesser but even degree
+  ![parkings](https://user-images.githubusercontent.com/70178880/110865439-76750900-8278-11eb-8a84-69e87d7a3db2.jpg)
 
 ## 
 **Conclusions**
@@ -110,20 +111,12 @@ According to the results from the survey and task analysis, the participants spe
 
 *   
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
 
 
    **Tommy** - **male, 22-23 years old, smartphone user,  student looking to regularly park efficiently and safely in order to be on time for class
 
 *   
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
 
 
    **Susie** - female, 24 year old, long distance commuter, student looking to regularly park efficiently and safely and is very patient when it comes to parking.
