@@ -9,7 +9,7 @@
     1. Jesus Alvarado
     2. Marko Ramos
     3. Michael Spears
-
+##
 **Executive Summary**
 
 *   Investigated the process of finding parkings at school 
@@ -56,7 +56,7 @@ We created a **Task Analysis** form in order to ride along, monitor and track ef
     *   shortest time to park is 5 minutes
     *   longest time to park is 37 minutes
 
-We created an** online survey** where the voluntary students gave their feedback on their process of finding a parking spot. It entails the location, time, and additional comments where the students offer their opinion on the current CSU parking, along with suggestions on any changes. 
+We created an **Online Survey** where the voluntary students gave their feedback on their process of finding a parking spot. It entails the location, time, and additional comments where the students offer their opinion on the current CSU parking, along with suggestions on any changes. 
 
 
 
@@ -104,7 +104,7 @@ According to the results from the survey and task analysis, the participants spe
     *   The students who did take the survey, all have similar majors. This results in their classes being the same so not all parking spaces are being used. 
 *   Our purpose is to track the students activity not the parking lot activity
 
-**Personas **
+**Personas**
 
 
 
@@ -116,7 +116,7 @@ According to the results from the survey and task analysis, the participants spe
 ![alt_text](images/image1.png "image_tooltip")
 
 
-  **Tommy** - **male, 22-23 years old, smartphone user,  student looking to regularly park efficiently and safely in order to be on time for class
+   **Tommy** - **male, 22-23 years old, smartphone user,  student looking to regularly park efficiently and safely in order to be on time for class
 
 *   
 
@@ -126,7 +126,7 @@ According to the results from the survey and task analysis, the participants spe
 ![alt_text](images/image2.png "image_tooltip")
 
 
-  **Susie** - female, 24 year old, long distance commuter, student looking to regularly park efficiently and safely and is very patient when it comes to parking.
+   **Susie** - female, 24 year old, long distance commuter, student looking to regularly park efficiently and safely and is very patient when it comes to parking.
 
 
 **Scenarios**
