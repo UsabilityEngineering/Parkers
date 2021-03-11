@@ -86,6 +86,7 @@ We created an **Online Survey** where the voluntary students gave their feedback
     *   29% use 3rd & Orange Lot C
     *   23% use 1st & Orange Lot B
     *   Others lots used to a lesser but even degree
+
   ![correct map](https://user-images.githubusercontent.com/70178880/110867381-7e827800-827b-11eb-8f2a-17a2a2b7dc70.JPG)
 
 ## 
