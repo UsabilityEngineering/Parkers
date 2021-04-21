@@ -24,7 +24,9 @@ Finding a parking spot is always a struggle when one is in a hurry to get to cla
 
 # Phase 2: Interaction Design
 
-*Coming Soon*
+* Executive Summary,
+* Wireframes,
+* Prototype
 
 [Full phase 2 report](phase2/)
 
