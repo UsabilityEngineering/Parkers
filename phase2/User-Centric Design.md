@@ -31,22 +31,22 @@
         
 ## Wireframe Artboards
 
-For this second phase, we designed a wireframe and prototype to best match the data we collected in phase one. 
+For this second phase, we designed a wireframe and prototype to best match the data we collected in phase one. The data collected was all from CSU students and this solution is catered to their needs. we wanted to create a live application that provides real time information to the user, whether they're commuting 30+ minutes or live within walking distance of campus.
 
 <img src="images/Sign In.png" width="200">
-To begin, we created a simple login/signin page that uses the student account that all of CSU student already use. This eliminates any extra steps taken in having to create a new account and remember any new username/passwords. Forgot username and forgot passwords will be the same steps students have experience with. 
+To begin, we created a simple login/signin page that uses the student account that all of CSU student already use. This eliminates any extra steps taken or possible mistakes that arise from having to create a new account and remember any new username/passwords. Forgot username and forgot passwords will be the same steps students have experience with. 
 
 <img src="images/Home Page.png" width="200">
 
-After Sign in we start basic summary information for the user.Starting with a large counter of total available parking spots so students have an idea of the live traffic, show a map for user to click, a bar chart similar to google traffic to demonstrate the activityt of traffic, and a list of all spots at the CSU campus for users who like lists. Along with the list, users have the ability to pin their favorite spots to the top (similar to pinning posts on twitter).  
+After Sign in we start with basic important information listed top to bottom for the user. Beginning with a large counter of total available parking spots, the user will have an idea of the live traffic, followed by a visual map for user the user to zoom in and out, and tap to make a parking lot destination location. Under the map, we demonstrate a crowd meter. This is a chart similar to google traffic to demonstrate the activityt of traffic. Under neath the crowd meter we have the entire list of spots at the CSU campus for users who like lists. Withinthe list, users have the ability to pin their favorite spots to the top in order to save them for later visits. (similar to pinning posts on twitter). The list offers the user a live update of available spots in each parking spot. 
 
 <img src="images/Confirm Directions.png" width="200"> <img src="images/Google Maps-imaps.png" width="200"> <img src="images/alert.PNG" width="200">
 
-After making their selection, the student confirms directions and is redirected to their google maps or imaps. Upon the destination becoming full and no longer available, the user received a pop up alert with automatic reroute to closest destination. The user has to option to cancel.  
+The user can tap a location on the map, or tap a location on the list. After making their selection, the student is prompted to confirm directions and is redirected to their google maps or imaps. While navigating to their destination, the user with up updated if the destination becoming full and no longer available, the user received a pop up alert with audio stating the automatic reroute to closest destination. The user does nothing to reroute in order to ensure traffic safety, but the user has to option to cancel. This is a neat feature in the case that a student is communiting from out of town and wants to park ASAP.   
 
 <img src="images/Sort By.png" width="200"> <img src="images/Filter.png" width="200">
 
-Student can sort their destination parking lots by availability and popularity. They can also filter parking by 3 categories: General, handicap and motorcycle. 
+Student have the ability to sort their destination parking lots by availability or popularity. They can also filter parking by 3 categories: General, handicap and motorcycle.  
 
 <img src="images/User Menu.png" width="200"> <img src="images/User Account.png" width="200"> <img src="images/User Settings.png" width="200"> <img src="images/User Feedback.png" width="200">
 
