@@ -4,6 +4,22 @@
 
 ## Executive Summary:
 
+  -Investigated user experience to accommodate those with particular circumstances 
+    -Such as a filter for handicap, motorcycles, and general
+      -Gave users the option to pin their favorite locations
+    -Added a crowd meter to have a general understanding of how times might impact the user 
+  -Linked to the personas and scenarios to represent our users
+    -It gave the user several options to choose between different locations and had a high error tolerance for miss clicking a location or being packed on the drive there.
+    -Put in a chime that will automatically change the route once the parking lot is full, and this is for the user's safety
+      -The alert can be canceled with a single click, similar to Google Maps
+  -Made all wireframes interaction friendly 
+    -All boxes or labels will lead to another wireframe
+    -It is made to be as identical to an app as possible 
+      -The app has a simple menu was included for the user to change their account information or modify the setting
+        -Allowed the user to give back feedback  about their experience
+        
+## Wireframe Artboards
+
 For this second phase, we designed a wireframe and prototype to best match the data we collected in phase one. 
 
 <img src="images/Sign In.png" width="200">
