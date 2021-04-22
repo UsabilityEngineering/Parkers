@@ -50,7 +50,7 @@ Student have the ability to sort their destination parking lots by availability 
 
 <img src="images/User Menu.png" width="200"> <img src="images/User Account.png" width="200"> <img src="images/User Settings.png" width="200"> <img src="images/User Feedback.png" width="200">
 
-The user has basic settings to access and edit account information, logout, enable/disable notifications and GPS, and submit feedback. 
+The user has basic settings to access and edit account information, logout, enable/disable notifications and GPS, and submit feedback. This will allow the user to limit distractions if they do not want alerts while driving. The feedback submission will allow us to build on the personas we currently have and provide the user with a better experience as we continue development.  
 
 
 
@@ -58,4 +58,4 @@ The user has basic settings to access and edit account information, logout, enab
 
   * [Our Wireframe|Prototype Link](https://xd.adobe.com/view/ceb98465-76ee-499e-91b5-50ee09582c67-9bea/) Draft
 
-  * [Our Wireframe Artboard](https://github.com/UsabilityEngineering/Parkers/blob/master/phase2/Wireframes.md)
+  * [Our Wireframe Artboards](https://github.com/UsabilityEngineering/Parkers/blob/master/phase2/Wireframes.md)
