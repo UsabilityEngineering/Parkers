@@ -58,4 +58,4 @@ The user has basic settings to access and edit account information, logout, enab
 
   * [Our Wireframe|Prototype Link](https://xd.adobe.com/view/ceb98465-76ee-499e-91b5-50ee09582c67-9bea/) Draft
 
-  * [Our Wireframe Artboards](https://github.com/UsabilityEngineering/Parkers/blob/master/phase2/Wireframes.md)
+  * [Our Wireframe Artboards](https://github.com/UsabilityEngineering/Parkers/blob/master/phase2/newfolder/Wireframes.md)
