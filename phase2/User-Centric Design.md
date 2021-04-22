@@ -5,13 +5,13 @@
 
   - Investigated user experience to accommodate those with particular circumstances 
   
-    - Such as a filter for handicap, motorcycles, and general
+    - Examples likeusing a filter for handicap, motorcycles, and general parking
     
       - Gave users the option to pin their favorite locations
       
     - Added a crowd meter to have a general understanding of how times might impact the user 
     
-  - Linked to the personas and scenarios to represent our users
+  - Accomodate the personas in specific scenarios to represent our users
   
     - It gave the user several options to choose between different locations and had a high error tolerance for miss clicking a location or being packed on the drive there.
     
@@ -46,7 +46,7 @@ The user can tap a location on the map, or tap a location on the list. After mak
 
 <img src="images/Sort By.png" width="200"> <img src="images/Filter.png" width="200">
 
-Student have the ability to sort their destination parking lots by availability or popularity. They can also filter parking by 3 categories: General, handicap and motorcycle.  
+Student have the ability to sort their destination parking lots by availability or popularity. We made this a key function seeing as most if not all of the students we collected data from just wanted to find parking ASAP. Finding the best available spot is the default sort method but can be changed to sorting by popularity or traffic of parking locations. This is for the rare cases where students have a bit more time to maybe go to the least popular parking lot(s) in hopes of finding the parking spot nobody else goes to. They can also filter parking by 3 categories: General, handicap and motorcycle.  This accomodates motorcyclist and any handicap students.
 
 <img src="images/User Menu.png" width="200"> <img src="images/User Account.png" width="200"> <img src="images/User Settings.png" width="200"> <img src="images/User Feedback.png" width="200">
 
