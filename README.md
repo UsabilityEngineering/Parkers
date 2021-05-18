@@ -4,7 +4,7 @@ Finding a parking spot is always a struggle when one is in a hurry to get to cla
 
 ## Team Members
 
-* **Jesus Alvarado** - Introduction/Executive Summary/Personas
+* [Jesus Alvarado](https://usabilityengineering.github.io/ux-portfolio-JAlvarado28/) - Introduction/Executive Summary/Personas
 * **Marko Ramos** - Methods/Findings/ Conclusion/ Caveats/ Personas
 * **Michael Spears** - Findings/ Scenarios/ Supplimentary Materials
 
