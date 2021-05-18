@@ -4,9 +4,9 @@ Finding a parking spot is always a struggle when one is in a hurry to get to cla
 
 ## Team Members
 
-* [Jesus Alvarado](https://usabilityengineering.github.io/ux-portfolio-JAlvarado28/) - Introduction/Executive Summary/Personas
-* [Marko Ramos](https://github.com/mramos42/UXPortfolio) - Methods/Findings/ Conclusion/ Caveats/ Personas
-* [Michael Spears](https://usabilityengineering.github.io/ux-portfolio-spearsmike/) - Findings/ Scenarios/ Supplimentary Materials
+* [Jesus Alvarado](https://usabilityengineering.github.io/ux-portfolio-JAlvarado28/) - Introduction/Executive Summary/Personas/Prototype
+* [Marko Ramos](https://github.com/mramos42/UXPortfolio) - Methods/Findings/ Conclusion/ Caveats/ Personas/Prototype
+* [Michael Spears](https://usabilityengineering.github.io/ux-portfolio-spearsmike/) - Findings/ Scenarios/ Supplimentary Materials/Prototype
 
 # User-Centered Design Artifacts
 
