@@ -22,7 +22,7 @@
 * Since this is a simple and straightforward app, there are three tasks that target different functions from the app. We will have the participants think out loud to get a full understanding of their thought processes as they navigate through each task. Full protocol with description linked below.
   
 
-[Protocol](Protocol.pdf)
+[Protocol](Protocol2.pdf)
 
 [Interactive Prototype](https://xd.adobe.com/view/ceb98465-76ee-499e-91b5-50ee09582c67-9bea/)
 
