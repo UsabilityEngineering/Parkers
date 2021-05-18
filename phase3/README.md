@@ -1,6 +1,8 @@
 ## Phase 3: Usability Evaluation
 
+# Protocol Explanation
 
+* There are three tasks that targets different functions from the app. We will have the participants to think out loud to get a full understanding of their thought process 
 
 
 [Protocol](Protocol.pdf)
