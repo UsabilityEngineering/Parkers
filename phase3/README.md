@@ -38,7 +38,36 @@
 
     * This will allow us to see if the function works and what is the user’s thoughts on the feedback form option.
 
+      - Ask the user how satisfied they are with the application and its usefulness on a scale of 1-5. 1 = not useful, 5 = very useful
+
+    * This will allow the user to give feedback on which we can improve the app upon.
+
     **Task 2**
+
+    * The second task targets the use of filters and the crowd meter in the app. It will be similar to the first task, just with the applications of filters in the list.
+
+      - Does the user successfully use the filter option to their advantage? y/n
+
+    * We hope to discover if the filters are effective and memorable for the user to use. Our goal is for it to be used often when setting a destination.
+
+      - Did the user mark down their favorite location or did they disregard it?
+
+    * This will allow us to see if it is understandable to use this option or can it be disregarded.
+
+      - Did the user scroll through the options of different parking locations with motorcycle parking? y/n
+
+    * This will reveal how useful the filter is and how it affects the list for the user’s purpose.
+
+      - Identify how effectively the user can maneuver the list of locations.
+      	- Did the user select or deselect from any filters? y/n
+
+    * This will reveal how often the filters are used and the error tolerance that it has. Like if it is easy to remove the filter or apply it.
+
+      - Ask the user how satisfied they are with the application and its usefulness on a scale of 1-5. 1 = not useful, 5 = very useful
+
+    * This will allow the user to give feedback on which we can improve the app upon.
+   
+
 
 [Protocol](Protocol.pdf)
 
