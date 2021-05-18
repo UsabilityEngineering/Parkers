@@ -32,6 +32,8 @@ Finding a parking spot is always a struggle when one is in a hurry to get to cla
 
 # Phase 3: Usability Evaluation
 
-*Coming Soon*
+* Protocol
+* Interactive Prototype
+* Spread Sheet
 
 [Full phase 3 report](phase3/)
