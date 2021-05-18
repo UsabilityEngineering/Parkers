@@ -12,7 +12,7 @@ Finding a parking spot is always a struggle when one is in a hurry to get to cla
 
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](#)
-* [Prototype](#)
+* [Prototype](https://xd.adobe.com/view/ceb98465-76ee-499e-91b5-50ee09582c67-9bea/)
 
 # Phase 1: Requirements Gathering
 
