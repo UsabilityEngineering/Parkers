@@ -71,9 +71,27 @@
 
     **Task 3**
     
-    
-   
+    * For task 3, it is simple as we process the use of setting favorites on certain parking locations. We ask the user to add and delete those favorites. 
 
+      - Did the user locate the ‘pins’ in the list? y/n
+
+      - Did the user successfully tap the pin to ‘save’ their favorite spots? y/n
+
+      - Did the user successfully tap the pin again to ‘unsave’ a parking spot? y/n
+
+    * This will show us if our conceptual model is used properly. We aimed it to be understandable and easy to manipulate. Therefore, this task will allow us to see how learnable the functions are.
+   
+   **Wrap up** 
+   
+   * This section of the protocol, we want to discover and learn about the user's thoughts and opion regarding the app. We aim to see how efficient it is and if there any was to further improve it upon. 
+   
+     - Now that you've used the app for some tasks, we’d like to know your thoughts and impressions of it. Overall, what did you enjoy most about the application?
+
+     - What did you dislike about it? Was there anything you were confused about?
+
+     - Are there any additional features that you would like for the application to have? 
+
+    
 
 [Protocol](Protocol.pdf)
 
