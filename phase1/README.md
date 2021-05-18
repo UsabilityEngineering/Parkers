@@ -4,7 +4,7 @@
 ###### Jesus Alvarado
 ###### Marko Ramos
 ###### Michael Spears
-***
+
 ## Executive Summary
 - Investigated the process of finding parkings at school 
     - Design an app that will show real time parking 
@@ -20,7 +20,7 @@
 - Designed personas and scenarios to represent three customer archetypes with different priorities:
     - Tommy: A student who is in a hurry to get to his class, but is being held back due to taking too much time in finding an available parking space. 
     - Susie: A student who lives far away and drives to different locations trying to find an available parking spot. Finds a parking spot a location further away from her class, thus is walking by foot and late to class. 
-***
+
 ## Methods
 - Task analysis
     - Used this in order to analyze time(s) to perform tasks of parking for CSU students
@@ -28,7 +28,7 @@
 - Voluntary online survey.
     - Collect more quantitative data from students
     - 17 total students surveyed
-***
+
 ## Findings
 We created a **task analysis** form in order to ride along, monitor and track efficiency of voluntary students as they find parking spots at CSU parking structures. The findings are the following:
 - Observed on Monday and Tuesday of a regular semester(Fall/Spring)
@@ -74,7 +74,7 @@ We created an **online survey** where the voluntary students gave their feedback
 ![correct map](https://user-images.githubusercontent.com/31253972/110868066-b6d68600-827c-11eb-99d7-2b2f01e82838.jpg)
 
 **The most used parking spaces are highlighted in red and orange**
-***
+
 ## Conclusions
 According to the results from the survey and task analysis, the participants spend too much time searching for a free parking spot which results from 10-30 minutes. Limitations brought upon by Covid-19 and Chico State restrictions have forced us to collect data from a small sample size of students. Our personas and scenarios may not best reflect the large majority of students. For this reason, we conclude that more research has to be done in order to collect information from the larger population of CSU students. Going back, we need to collect more data like: whether or not a student is a parking pass holder, student’s declared major, how far a student commutes, students who park in the other 66% of parking lots available. Because 100% of our survey participants have smartphones, we’d like to improve the problem of CSU parking by offering a mobile application. Going back to collect more detailed information will improve our approach in order to develop and meet the requirements for our key personas and scenarios.
 
@@ -95,7 +95,7 @@ According to the results from the survey and task analysis, the participants spe
 - **Tommy** is hurrying to get to his first scheduled class at 8:30AM at Chico State. Tommy checks his smart phone and the time is 8:15 when he enters parking lot C. Because many other students have class around that time, the parking lot is mostly full and Tommy finds it impossible to find an open parking spot, even though Tommy has a parking pass. Tommy spends 10 minutes looking for parking in parking lot C before he moves to parking lot B1. He spends another 5 minutes before successfully parking. The time is now 8:30 AM and Tommy is now able to walk from the parking lot to his class. Tommy is late for class.
 
 - **Susie** commutes daily to school. She lives about an hour away from school so finding a parking spot is urgent and the only solution she has for school. She arrives at parking lot B at 9:45 AM and is trying to find a parking spot. Her first class begins at 10 AM. The parking lot is completely full. She does not have the option to head back home so finding a parking space is a must.  She leaves the parking lot to enter parking lot D2 at 9:55 (about 5 minutes distance between parking lot B and D2) It takes her another 5 minutes to successfully park. She parks at 10 AM and can now make her way to her class on foot. Susy is late. 
-***
+
 ## Supplementary Materials
 - [Online Survey](https://docs.google.com/forms/d/1P0dJLZed2vPHwAqNjujo-Jh7jZMSqEsc8xkm2_5A0VM/prefill)
 - [Task analysis with consent form](https://docs.google.com/document/d/1yiP0CcfsByH6GbNYqNtrj-aVMFUumyWnIfnpJcZXZ9c/edit?usp=sharing)
