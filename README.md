@@ -11,7 +11,7 @@ Finding a parking spot is always a struggle when one is in a hurry to get to cla
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
-* [Wireframes](phase2/newfolder/wireframes)
+* [Wireframes](phase2/newfolder/Wireframe Atrboard and Details- Google Docs.pdf)
 * [Prototype](https://xd.adobe.com/view/ceb98465-76ee-499e-91b5-50ee09582c67-9bea/)
 
 # Phase 1: Requirements Gathering
